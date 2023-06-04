@@ -1,0 +1,2 @@
+# Harmony-Generator
+Msc project
